@@ -1,6 +1,6 @@
 
 #### 1. Instalación del ordenador.
-Se nos asigna un equipo, el cual no trae SSD. Instalamos esa SSD y procedemos a instalar ubuntu mediante una unidad USB. Una vez instalado el sistema operativo, configuramos el usuario añadiendo un nombre de usuario y al ordenador. Por último, se añade una contraseña y se reinicia el equipo para aplicar los cambios y comprobar que la configuración se ha guardado.
+Se nos asigna un equipo, el cual no trae SSD. Instalamos esa SSD y procedemos a instalar ubuntu mediante una unidad USB. Una vez instalado el sistema operativo, Ubuntu 25.10, configuramos el usuario añadiendo un nombre de usuario y al ordenador. Por último, se añade una contraseña y se reinicia el equipo para aplicar los cambios y comprobar que la configuración se ha guardado.
 
 #### 2. Instalación de archivos.
 
