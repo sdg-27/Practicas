@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+
+cd /home/sergio/Escritorio/Practicas
 # ============================================================
 #  github_push.sh — Actualiza tu repositorio de GitHub
 #  sin introducir usuario ni token manualmente.
