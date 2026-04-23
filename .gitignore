@@ -1,1 +1,1 @@
-github_push.sh
+echo "github_push.sh" >> .gitignore
