@@ -6,3 +6,6 @@ Cuando ya hemos instalado java, probamos a instalar las aplicaciones que dieron 
 
 Para este ordenador se hace lo mismo que para el anterior, salvo que a este se instala lo primero de todo el java por terminal para que no de ningún error después. A este equipo, se le añade una aplicación extra a petición del usuario.
 
+### Thruk, monitoreo 
+
+Gracias a esta herramienta se puede monitorizar todos los aspectos del centro
