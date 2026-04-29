@@ -4,6 +4,6 @@ Cuando ya se han instalado las aplicaciones, abrimos TightVNC. Esta aplicacion s
 
 #### 2. Configuración de reunion online.
 
-Gracias a guacamole, una página suya que sirve para conectarse de manera remota a ordenadores de la misma red como si fuera SSH. Primero se crea la sesión desde el ordenador del administrador, cuando ya está creada, se accede a los ordenadores de donde va a tener lugar la conferencia para poder configurar las pantallas y lo que se va a stremear desde esos equipos. Por último se configura la cámara instalada al fondo de la sala para poder retransmitir la reunión.
+Gracias a guacamole, una página suya que sirve para conectarse de manera remota a ordenadores de la misma red como si fuera SSH, se puede configurar todo desde el mismo ordenador. Primero se crea la sesión desde el ordenador del administrador, cuando ya está creada, se accede a los ordenadores de donde va a tener lugar la conferencia para poder configurar las pantallas y lo que se va a stremear desde esos equipos. Por último se configura la cámara instalada al fondo de la sala para poder retransmitir la reunión. Para que esto funcione, los ordenadores remotos han de tener WoL, que es un sistema que enciende el ordendador de forma remota al detectar que la otra parte del remoto quiere acceder a él.
 
 

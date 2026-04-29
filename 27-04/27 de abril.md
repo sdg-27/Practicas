@@ -1,6 +1,6 @@
 ### Problema con PC
 
-El equipo no enciende o se queda mucho tiempo cargando. Mediante remoto no conseguimos nada por lo que vamos al lugar donde se encuentra el equipo para poder usar el modo seguro. Cuando se inicia el equipo en modo seguro, entra sin ningún tipo de problema, después se prueba de manera normal y también entra, por lo que no se llega a ninguna conclusión firme de que puede ser la causa.
+El equipo no enciende o se queda mucho tiempo cargando. Mediante remoto no conseguimos nada por lo que vamos al lugar donde se encuentra el equipo para poder usar el modo seguro. Cuando se inicia el equipo en modo seguro, entra sin ningún tipo de problema, después se prueba de manera normal y también entra, por lo que no se llega a ninguna conclusión firme de que puede ser la causa pero ya funciona con normalidad.
 
 ### Recuperacion de datos
 
