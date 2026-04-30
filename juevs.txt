@@ -1,3 +1,0 @@
-Conexion a linux vnc. 
-Conexion al servidor (por samba) o por webdav.
-Publicaciones científicas.
