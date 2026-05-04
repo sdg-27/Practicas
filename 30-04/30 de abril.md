@@ -13,3 +13,7 @@ Primero se accede al apartado donde se muestran los artículos nuevos de investi
 ### Conexión al servidor
 
 Siguiendo el vídeo de Javi, surge un error ya que la versión que él usa es más antigua, por lo que en la interfaz no me sale lo mismo que a él. Para solucionar, instalo nautilus para poder buscar mejor dentro de la carpeta. Al no salir en carpeta, se busca con la ruta para acceder directamente aunque no salga que esté en el sistema. Cuando le doy a enter, me pide usuario y contraseña, y al ponerlo ya estoy dentro.
+
+### Configuración de máquina virtual.
+
+Miguel me manda una hoja con los pasos a seguir para crear una MV, pero dan ciertos errores que hay que corregir. Cuando ya la he creado, no se enciende ni se cierra, por lo que se queda bugueada sin poder hacer nada. Al crear una segunda, llega al mismo destino, se queda pillada sin poder hacer nada. Al final, se decide en dejarlo así porque la finalidad era el poder instalar ambas.
