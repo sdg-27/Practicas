@@ -98,3 +98,7 @@ Siguiendo el vídeo de Javi, surge un error ya que la versión que él usa es m�
 ## Configuración de máquina virtual.
 
 Miguel me manda una hoja con los pasos a seguir para crear una MV, pero dan ciertos errores que hay que corregir. Cuando ya la he creado, no se enciende ni se cierra, por lo que se queda bugueada sin poder hacer nada. Al crear una segunda, llega al mismo destino, se queda pillada sin poder hacer nada. Al final, se decide en dejarlo así porque la finalidad era el poder instalar ambas.
+
+## Control de acceso.
+
+Mediante un Windows server, se tiene montado un sistema que gestiona las tarjetas de acceso. La aplicación que se encarga de esa parte de gestionar y dar los permisos es **Sipass**, donde se puede acceder a cada usuario para darle los permisos manualmente. Esto está conectado a la BBDD principal, pero solo con el nombre e id del usuario, evitando meter información extra innecesaria. Para usarla, se hace mediante el acceso de guacamole ya que en el apartado de informática solo un ordenador cuenta con el acceso a este servicio.
