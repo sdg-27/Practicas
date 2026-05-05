@@ -102,3 +102,11 @@ Miguel me manda una hoja con los pasos a seguir para crear una MV, pero dan cier
 ## Control de acceso.
 
 Mediante un Windows server, se tiene montado un sistema que gestiona las tarjetas de acceso. La aplicación que se encarga de esa parte de gestionar y dar los permisos es **Sipass**, donde se puede acceder a cada usuario para darle los permisos manualmente. Esto está conectado a la BBDD principal, pero solo con el nombre e id del usuario, evitando meter información extra innecesaria. Para usarla, se hace mediante el acceso de guacamole ya que en el apartado de informática solo un ordenador cuenta con el acceso a este servicio.
+
+## Laboratorio Alieva.
+
+Guía y explicación de lo que hacen dentro del laboratorio. Es el único apartado que tiene que ver más con la informática, ya que desarrollan su propio software para poder llevar a cabo sus proyectos. Principalmente usan **Python**, que es lo más estandarizado y general en su ámbito.
+
+## Configuración de PC de Alieva.
+
+Para configuar a un usuario nuevo en ese PC, primero se usa un bucle donde se crea al usuario y sus rutas. Después, se configura su contraseña, que está aleatorizada. Además, se configura de manera que ni se apague ni se suspenda de forma automática. Por último, se instala la interfaz gráfica para que el usuario pueda manejar bien el equipo y se instala definitivamente el perfil. A la hora de asignar el usuario se hace mediante el bucle previamente nombrado. El proceso es el siguiente, busca desde el usuario dos en adelante hasta que encuentra un número vacío. Cuando encuentra ese número vacío, lo contrasta con uno que empieza desde el 50, y en el caso que ambos estén libres, se asigna ese al usuario que se va a crear. Esto se lleva a cabo porque es una medidad de seguridad, ya que SSH empieza siempre en el puerto 5900, por lo que se añade un puerto extra para mayor seguridad.
