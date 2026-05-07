@@ -22,7 +22,7 @@ err()  { echo "[ERROR] $*" >&2; exit 1; }
  
 command -v git >/dev/null 2>&1 || err "git no está instalado."
  
-REPO_DIR="/home/sergio/Escritorio/Practicas"
+REPO_DIR="/home/alumno/Escritorio/Practicas"
 cd "$REPO_DIR" || err "No se encontró el directorio $REPO_DIR"
  
 if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
