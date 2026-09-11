@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 GITHUB_USER="sdg-27"
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 REPO_NAME="Practicas"
 BRANCH="master"
  
